@@ -10,5 +10,5 @@
 🔋【抽奖】天翼云盘50M空间
 ```
 # env
-USERNAME=手机号/邮箱   
+USERNAME=手机号/邮箱   。
 PASSWORD=密码
